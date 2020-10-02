@@ -21,6 +21,7 @@
       type="image/png" 
       href="images/dwe_icon.png">
   <title>{pageTitle}</title>
+  <meta name="description" content="Another Chuck Norris Joke Generator Written in Svelte">
 </svelte:head>
 
 
