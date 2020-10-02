@@ -57,7 +57,7 @@ hr{
 		justify-content: center;
 		text-align: center;
 		padding: 1em;
-		max-width:50vw;
+		width:100vw;
 		margin: 0 auto;
 		height:100vh;
 	}
