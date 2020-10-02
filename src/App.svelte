@@ -25,7 +25,7 @@
 
 
 <main>
-	<h1>Shitty Joke Generator!</h1>
+	<h1>Chuck Norris Joke Generator!</h1>
 	<hr/>
 
 	<p>
