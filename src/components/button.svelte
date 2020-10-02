@@ -9,7 +9,7 @@
         background-color: white;
         border-radius: 5px;
         border-color: rgb(165, 165, 165);
-        width:50%;
+        width:20%;
         text-transform: uppercase;
         font-weight:100;
     }

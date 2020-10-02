@@ -37,11 +37,7 @@
 </main>
 
 <style>
-	* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 hr{
 	width:20%;
@@ -57,9 +53,9 @@ hr{
 		justify-content: center;
 		text-align: center;
 		padding: 1em;
-		width:100vw;
+		width:80vw;
 		margin: 0 auto;
-		height:100vh;
+		height:90vh;
 	}
 
 	h1 {
@@ -72,7 +68,7 @@ hr{
 	}
 
 	p{
-		font-size:calc(30px + 6 * ((100vw - 680px) / 680));
+		font-size:calc(20px + 6 * ((100vw - 680px) / 680));
 		font-weight: 100;
 	}
 
